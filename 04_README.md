@@ -153,5 +153,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Abhinav Anand**
-B.Tech CSE (AI/ML), IILM University
+B.Tech CSE (AI/ML), IILM University,3rd semester
 GitHub: [@abhinav817482](https://github.com/abhinav817482)
